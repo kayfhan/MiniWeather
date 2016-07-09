@@ -10,3 +10,5 @@ git@github.com:kayfhan/MiniWeather.git
 
 git remote add origin https://github.com/kayfhan/MiniWeather.git
 git push -u origin master
+
+https://www.gitbook.com/book/zhangqx/mini-weather/details
